@@ -14,7 +14,7 @@ exibirMsgnInicial();
 function exibirMsgnInicial() {
 
 exibirTXTela('h1','Jogo do numero secreto 2');
-exibirTXTela('p', 'Escolha um numero entre 1 e 100');
+exibirTXTela('p', 'Escolha um numero entre 1 e 100  ');
 
 }
 
